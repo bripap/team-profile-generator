@@ -1,0 +1,27 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "team profile generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "na"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bripap/team-profile-generator.git"
+  },
+  "author": "Brianna Pappas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bripap/team-profile-generator/issues"
+  },
+  "homepage": "https://github.com/bripap/team-profile-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.3.1"
+  }
+}
